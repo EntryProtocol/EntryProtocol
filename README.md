@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 I am [Your Nickname] 
+### 🎯 Red Team Operator in Training (Target: OSCP @ 18)
+---
 
-<!--
-**EntryProtocol/EntryProtocol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 My 5-Year Roadmap (2026-2031)
+- **Primary Goal:** Become a professional Physical Red Teamer.
+- **Focus:** Physical Security, Social Engineering, and Linux Exploitation.
 
-Here are some ideas to get you started:
+## 📈 February 2026 Milestones
+- [ ] Complete **Bandit Levels 0-10** (OverTheWire)
+- [ ] Reach **25 WPM** Typing Speed (Keybr.com)
+- [ ] Fix **Kali Linux** VirtualBox Setup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Library
+- [ ] *The Art of Deception* - Kevin Mitnick (Status: Not Started)
+
+## ⌨️ Typing Progress
+- **Start:** 12 WPM | **Current:** 12 WPM | **Goal:** 60 WPM

@@ -20,7 +20,7 @@
 
 ### February 2026
 - **Feb 15:** Officially established the **EntryProtocol** identity and 5-year roadmap.
-- **Feb 17:** Successfully configured GitHub portfolio. Started **Monkeytype** training(Goal: Accuracy). Started OverTheWire **Bandit** Level 0-2.
+- **Feb 17:** Successfully configured GitHub portfolio.  Successfully completed Bandit Levels 0-2. Mastered 'ls', 'cd', 'cat', and handling special filenames. Started Keybr touch-typing (Current focus: Breaking 'one-finger' habit).
 
 ---
 

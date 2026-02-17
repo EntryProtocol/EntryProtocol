@@ -1,18 +1,30 @@
-# 👋 I am [Your Nickname] 
-### 🎯 Red Team Operator in Training (Target: OSCP @ 18)
+# 👋 I am EntryProtocol
+### 🎯 Red Team Operator in Training (Age 13)
+**Mission Start:** Feb 15, 2026 | **Target OSCP Certification:** Feb 2031
+
 ---
 
-## 🛠 My 5-Year Roadmap (2026-2031)
-- **Primary Goal:** Become a professional Physical Red Teamer.
-- **Focus:** Physical Security, Social Engineering, and Linux Exploitation.
+## 🛠 My 5-Year Roadmap
+- **Phase 1 (Age 13-15):** Fundamentals (Linux, Networking, Python, Typing).
+- **Phase 2 (Age 15-16):** Initial Access & Web Hacking (TryHackMe, eJPT).
+- **Phase 3 (Age 16-18):** Physical Security & Active Directory (OSCP Prep).
 
-## 📈 February 2026 Milestones
-- [ ] Complete **Bandit Levels 0-10** (OverTheWire)
-- [ ] Reach **25 WPM** Typing Speed (Keybr.com)
-- [ ] Fix **Kali Linux** VirtualBox Setup
+## 📊 Technical Stats
+- **Typing Speed:** 12 WPM (Current) | 60 WPM (Goal)
+- **Linux Skills:** OverTheWire Bandit (Level 0)
+- **Current Reading:** *The Art of Deception* by Kevin Mitnick
 
-## 📚 Library
-- [ ] *The Art of Deception* - Kevin Mitnick (Status: Not Started)
+---
 
-## ⌨️ Typing Progress
-- **Start:** 12 WPM | **Current:** 12 WPM | **Goal:** 60 WPM
+## 📅 Activity Log (Proof of Experience)
+
+### February 2026
+- **Feb 15:** Officially established the **EntryProtocol** identity and 5-year roadmap.
+- **Feb 17:** Successfully configured GitHub portfolio. Started **Monkeytype** training(Goal: Accuracy). Started OverTheWire **Bandit** Level 0-2.
+
+---
+
+## ⌨️ Typing Milestones
+- [ ] 20 WPM (Bronze)
+- [ ] 40 WPM (Silver)
+- [ ] 60 WPM (Gold - Pro Level).

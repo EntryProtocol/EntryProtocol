@@ -21,8 +21,9 @@
 ### February 2026
 - **Feb 15:** Officially established the **EntryProtocol** identity and 5-year roadmap.
 - **Feb 17:** Successfully configured GitHub portfolio.  Successfully completed Bandit Levels 0-2. Mastered 'ls', 'cd', 'cat', and handling special filenames. Started Keybr touch-typing (Current focus: Breaking 'one-finger' habit).
+- **Feb 18:** Achieved first "Blind" typing session. 16.4 WPM with 92% accuracy (0% visual reliance). Mastered muscle memory over visual hunting. Succesfully completed Bandit levels 2-4.
 
----
+--- 
 
 ## ⌨️ Typing Milestones
 - [ ] 20 WPM (Bronze)

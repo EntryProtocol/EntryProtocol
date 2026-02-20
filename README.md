@@ -27,6 +27,7 @@
   - **Logic:** Learned to filter 'Search Noise' from the `/proc` virtual filesystem and redirect errors using `2>/dev/null`.
   - **Typing:** Breakthrough session. Reached 23.8 WPM @ 94.44% Accuracy (100% blind).
   - **Strategy:** Practiced 'Tactical Pausing' to ensure full retention of complex Linux command structures.
+- **Feb 20:** Tactical Pause. Reviewing command logic for 'grep' and 'piping' in preparation for Mission Day 5.
 
 --- 
 

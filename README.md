@@ -10,9 +10,9 @@
 - **Phase 3 (Age 16-18):** Physical Security & Active Directory (OSCP Prep).
 
 ## 📊 Technical Stats
-- **Typing Speed:** 12 WPM (Current) | 60 WPM (Goal)
-- **Linux Skills:** OverTheWire Bandit (Level 0)
-- **Current Reading:** *The Art of Deception* by Kevin Mitnick
+- **Typing Speed:** 12 WPM (Start) ➡️ 29.1 WPM (Current) ➡️ 60 WPM (Goal)
+- **Linux Skills:** OverTheWire Bandit Level 0(Start) ➡️ Level 8(Current)
+- **Current Reading:** *Linux Basics for Hackers* by Occupytheweb
 
 ---
 
@@ -28,6 +28,11 @@
   - **Typing:** Breakthrough session. Reached 23.8 WPM @ 94.44% Accuracy (100% blind).
   - **Strategy:** Practiced 'Tactical Pausing' to ensure full retention of complex Linux command structures.
 - **Feb 20:** Tactical Pause. Reviewing command logic for 'grep' and 'piping' in preparation for Mission Day 5.
+- **Feb 21:** Accomplished major Technical & Physical milestones.
+  - **Technical:** Mastered 'In-File' data extraction in Bandit Levels 7-8. 
+  - **Logic:** Implemented 'wc -l' for file-size pre-verification. Created complex command chains using 'sort', 'uniq -u', and 'grep' with pipes.
+  - **Strategy:** Developed a 'Keyword Dictionary' (pass, admin, config) for targeted Red Team reconnaissance.
+  - **Typing:** Milestone reached. 29.1 WPM @ 97% Accuracy (100% blind). Speed increased by 80% since Day 1.
 
 --- 
 

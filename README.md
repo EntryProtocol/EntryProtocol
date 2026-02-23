@@ -33,6 +33,7 @@
   - **Logic:** Implemented 'wc -l' for file-size pre-verification. Created complex command chains using 'sort', 'uniq -u', and 'grep' with pipes.
   - **Strategy:** Developed a 'Keyword Dictionary' (pass, admin, config) for targeted Red Team reconnaissance.
   - **Typing:** Milestone reached. 29.1 WPM @ 97% Accuracy (100% blind). Speed increased by 80% since Day 1.
+- **Feb 22:** Successfully completed Bandit levels 8-10. Learnt ('strings') and ('base64') encoding. Practiced 10 minutes on keybr and reached 32.4 wpm @ 96% accuracy (blind typing).
 
 --- 
 

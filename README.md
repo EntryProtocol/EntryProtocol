@@ -10,8 +10,8 @@
 - **Phase 3 (Age 16-18):** Physical Security & Active Directory (OSCP Prep).
 
 ## 📊 Technical Stats
-- **Typing Speed:** 12 WPM (Start) ➡️ 29.1 WPM (Current) ➡️ 60 WPM (Goal)
-- **Linux Skills:** OverTheWire Bandit Level 0(Start) ➡️ Level 8(Current)
+- **Typing Speed:** 12 WPM (Start) ➡️ 34.6 WPM (Current) ➡️ 60 WPM (Goal)
+- **Linux Skills:** OverTheWire Bandit Level 0(Start) ➡️ Level 12(Current)
 - **Current Reading:** *Linux Basics for Hackers* by Occupytheweb
 
 ---
@@ -34,10 +34,14 @@
   - **Strategy:** Developed a 'Keyword Dictionary' (pass, admin, config) for targeted Red Team reconnaissance.
   - **Typing:** Milestone reached. 29.1 WPM @ 97% Accuracy (100% blind). Speed increased by 80% since Day 1.
 - **Feb 22:** Successfully completed Bandit levels 8-10. Learnt ('strings') and ('base64') encoding. Practiced 10 minutes on keybr and reached 32.4 wpm @ 96% accuracy (blind typing).
+- **Feb 24:**
+- Accomplished Bandit levels 10-12. Learnt and implemented ('base64') and ('tr'). Connected ('tr') with ('A-Za-z' 'N-ZA-Mn-za-m'). Differenciated between 'Encoding' and 'Encryption'. Understood the concept of 'ROT13'.
+  -**Typing**: Successfully increased in 34.6 wpm @ 98.7% accuracy for 10 minutes.
+  -**Extra**: Started mini Python side quests to develop a better understanding and master the basics for future scripting. Today's side quest: Completed an Odd/Even checker where you enter a number and the output checks whether it's an odd number or even. Implemented on ('input()'), variables and conditionals with depth of if/else.
 
 --- 
 
 ## ⌨️ Typing Milestones
-- [ ] 20 WPM (Bronze)
+- [Accomplished!] 20 WPM (Bronze)
 - [ ] 40 WPM (Silver)
 - [ ] 60 WPM (Gold - Pro Level).

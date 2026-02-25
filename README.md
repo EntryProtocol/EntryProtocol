@@ -10,7 +10,7 @@
 - **Phase 3 (Age 16-18):** Physical Security & Active Directory (OSCP Prep).
 
 ## 📊 Technical Stats
-- **Typing Speed:** 12 WPM (Start) ➡️ 34.6 WPM (Current) ➡️ 60 WPM (Goal)
+- **Typing Speed:** 12 WPM (Start) ➡️ 43.1 WPM (Current) ➡️ 60 WPM (Goal)
 - **Linux Skills:** OverTheWire Bandit Level 0(Start) ➡️ Level 12(Current)
 - **Current Reading:** *Linux Basics for Hackers* by Occupytheweb
 
@@ -38,10 +38,11 @@
 - Accomplished Bandit levels 10-12. Learnt and implemented ('base64') and ('tr'). Connected ('tr') with ('A-Za-z' 'N-ZA-Mn-za-m'). Differenciated between 'Encoding' and 'Encryption'. Understood the concept of 'ROT13'.
   -**Typing**: Successfully increased in 34.6 wpm @ 98.7% accuracy for 10 minutes.
   -**Extra**: Started mini Python side quests to develop a better understanding and master the basics for future scripting. Today's side quest: Completed an Odd/Even checker where you enter a number and the output checks whether it's an odd number or even. Implemented on ('input()'), variables and conditionals with depth of if/else.
+-**Feb 25:** Finally reached the Silver milestone of above 40 wpm. I successfully reached 43.1 wpm @ 97.54% accuracy while practicing for 15 minutes today. I didn't do any extra bandit levels but I focused and implemented more on yesterday's new commands and concepts.
 
 --- 
 
 ## ⌨️ Typing Milestones
 - [Accomplished!] 20 WPM (Bronze)
-- [ ] 40 WPM (Silver)
+- [Accomplished! ] 40 WPM (Silver)
 - [ ] 60 WPM (Gold - Pro Level).

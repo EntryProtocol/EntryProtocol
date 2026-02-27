@@ -39,6 +39,15 @@
   -**Typing**: Successfully increased in 34.6 wpm @ 98.7% accuracy for 10 minutes.
   -**Extra**: Started mini Python side quests to develop a better understanding and master the basics for future scripting. Today's side quest: Completed an Odd/Even checker where you enter a number and the output checks whether it's an odd number or even. Implemented on ('input()'), variables and conditionals with depth of if/else.
 - **Feb 25:** Finally reached the Silver milestone of above 40 wpm. I successfully reached 43.1 wpm @ 97.54% accuracy while practicing for 15 minutes today. I didn't do any extra bandit levels but I focused and implemented more on yesterday's new commands and concepts.
+- **Feb 27:** Successfully completed bandit levels 12-13.
+  -**Key Technical Achievements:**
+    -**Workspace Provisioning:** Utilized `/tmp/` to bypass restricted home directory permissions and establish a functional **temporary workbench**.
+    -**Binary Reconstruction:** Applied `xxd -r` to revert **Hexdumps** into original binary formats.
+    -**Signature Identification:** Leveraged the `file` command to perform **MIME-type analysis** and identify true file identities (Gzip, Bzip2, Tar).
+    -**Decompression Pipeline:** Executed an iterative loop of `gunzip`, `bunzip2`, and `tar -xf` to peel back nested obfuscation layers.
+    -**File Management:** Mastered the use of `mv` for tool-specific renaming and `ls -lt` for tracking the latest extracted artifacts.
+-**Red Team Skill Unlocked:** *Environmental Awareness & Iterative Data Forensics
+  -Skipped typing practice for today.
 
 --- 
 
